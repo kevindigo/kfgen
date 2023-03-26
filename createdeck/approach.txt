@@ -1,0 +1,16 @@
+7 houses, pick 3
+For each house
+  For each of 12 cards, pick one at random from the 50
+  [Exception: Sanctum 4 horsemen show up together]
+  Common, uncommon, rare must have different chances of showing up
+  No limit on the number of times a given card is in a deck
+
+Ignore mavericks for now
+
+Average roughly 1 rare per house
+Average roughly 2 commons per house
+
+Generate a deck, and then check for validity
+- Niffle Queen
+- Pitlord
+
